@@ -1,4 +1,4 @@
-## 🚗 Car Rental Website
+<h2> ## 🚗 Car Rental Website</h2>
 
 A modern and fully functional Car Rental Web Application built using React, Node.js, Express, MongoDB, Tailwind CSS, and Framer Motion. It provides a seamless interface for browsing, filtering, and booking cars with smooth animations and responsive design.
 
@@ -20,7 +20,7 @@ A modern and fully functional Car Rental Web Application built using React, Node
 
 ## 🌐 Live Demo
 
-🔗 [View Website][(https://car-rental-website-seven-tawny.vercel.app/)]
+🔗 [View Website](https://car-rental-website-seven-tawny.vercel.app/)
 
 ## 🧰 Tech Stack
 
